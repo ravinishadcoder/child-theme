@@ -1,0 +1,22 @@
+{
+  "name": "sample-theme",
+  "version": "1.0.0",
+  "description": "sample-theme packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordpress",
+    "themes"
+  ],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "browerslist": [
+    "defaults"
+  ],
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
